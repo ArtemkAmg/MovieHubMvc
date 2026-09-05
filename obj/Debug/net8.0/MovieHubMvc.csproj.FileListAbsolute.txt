@@ -31,3 +31,5 @@ C:\Users\Artemka\MovieHubMvc\obj\Debug\net8.0\refint\MovieHubMvc.dll
 C:\Users\Artemka\MovieHubMvc\obj\Debug\net8.0\MovieHubMvc.pdb
 C:\Users\Artemka\MovieHubMvc\obj\Debug\net8.0\MovieHubMvc.genruntimeconfig.cache
 C:\Users\Artemka\MovieHubMvc\obj\Debug\net8.0\ref\MovieHubMvc.dll
+C:\Users\Artemka\MovieHubMvc\bin\Debug\net8.0\libman.json
+C:\Users\Artemka\MovieHubMvc\obj\Debug\net8.0\MovieHubMvc.sourcelink.json
